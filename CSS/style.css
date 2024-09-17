@@ -56,7 +56,8 @@ header li a.selected{
     padding: 100px 20px;
     margin: auto;
     display: flex;
-    justify-items: center;
+    justify-content: space-between;
+    align-items: center;
 }
 .imageArticle .content{
     width: 50%
