@@ -29,6 +29,7 @@ header li a{
 }
 header li a.selected{
     background-color: #59331D;
+    
 }
 .hero{
     height: 400px;
